@@ -1,6 +1,13 @@
+/*
+ * @Description: 
+ * @Author: jacob
+ * @Date: 2020-06-14 15:22:19
+ * @LastEditTime: 2020-06-14 20:27:03
+ * @LastEditors: jacob
+ */ 
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import Home from '../views/map.vue'
 
 Vue.use(VueRouter)
 
